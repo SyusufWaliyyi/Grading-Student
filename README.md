@@ -1,2 +1,2 @@
 # Grading-Student
-This is a simple python file that graded student base on their exam score
+This is a simple python file that grade student base on their exam score
